@@ -1,0 +1,2 @@
+rootProject.name='Coronavirus tracker for India'
+include ':app'

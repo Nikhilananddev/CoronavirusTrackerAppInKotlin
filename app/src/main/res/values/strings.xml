@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Coronavirus tracker for India</string>
+    <string name="confirm">Confirm</string>
+    <string name="india_cronavirus_tracker">India Cronavirus Tracker</string>
+    <string name="todo">TODO</string>
+    <string name="deaths">Deaths</string>
+    <string name="active">active</string>
+    <string name="recoverd">Recvrd</string>
+    <string name="splashscreenimage">splashscreenimage</string>
+    <string name="welcome">Welcome to Nikhil Anand, your number one source for all things app. We\'re dedicated to providing you the best of the app, with a focus on dependability. customer service, and secure reliable, and useful. We\'re working to turn our passion for an app. We hope you enjoy our products as much as we enjoy offering them to you.</string>
+    <string name="sincerely_nikhil_anand">Sincerely, Nikhil Anand</string>
+</resources>
