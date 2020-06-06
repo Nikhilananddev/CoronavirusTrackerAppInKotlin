@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Coronavirus tracker for India</string>
     <string name="confirm">Confirm</string>
-    <string name="india_cronavirus_tracker">India Cronavirus Tracker</string>
+    <string name="india_cronavirus_tracker">India Coronavirus Tracker</string>
     <string name="todo">TODO</string>
     <string name="deaths">Deaths</string>
     <string name="active">active</string>
